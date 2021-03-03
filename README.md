@@ -2,7 +2,10 @@
 
 <p align="left"> <a href="https://twitter.com/whitingdev" target="blank"><img src="https://img.shields.io/twitter/follow/whitingdev?logo=twitter&style=for-the-badge" alt="whitingdev" /></a> </p>
 
+![Whiting.dev](https://whiting.dev/favicon.png)
+
 ### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -10,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/whitingdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="whitingdev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/whitingdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="whitingdev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/whitingdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="whitingdev" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCxUaOl0cTmznUoLB2RqIY3Q" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="whitingdev" height="30" width="40" /></a>
 <a href="/https://whiting.dev/index.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://whiting.dev/index.xml" height="30" width="40" /></a>
 </p>
 
