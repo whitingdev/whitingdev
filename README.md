@@ -7,6 +7,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Social](https://whiting.dev/posts/social/)
+- [Rebooting](https://whiting.dev/posts/rebooting/)
+- [About Whiting.dev](https://whiting.dev/about/)
+- [Post Schedule](https://whiting.dev/next/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
